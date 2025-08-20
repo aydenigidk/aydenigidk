@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayden
 - 👀 I’m interested in game development and creativity based programming
-- 🌱 I’m currently studying computer science as a freshman in college
+- 🌱 I’m currently studying computer science as a Senior in college
 - 📫 My school email is the best place to reach me: carrollan@vcu.edu
 
 <!---
